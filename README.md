@@ -36,19 +36,56 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
+
+
+##half adder
+
+
+![exp 3 prg](https://github.com/Saarulakshmi/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/155513241/e8a40fe6-5761-42c8-ad01-3576eb5fbe38)
+
+##full adder
+
+![exp 3 prg 2](https://github.com/Saarulakshmi/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/155513241/a7f09e97-e7f6-465f-b6a3-09b173ad150c)
+
+##RTL
+
+![exp 3 rtkl 1](https://github.com/Saarulakshmi/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/155513241/cbd09ea9-7d72-4151-97bd-9b2e7ac3aeb0)
+
+
+![exp 3 rtl 2](https://github.com/Saarulakshmi/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/155513241/b6b93810-b11b-4e06-817e-db305dd6f399)
+
+
+##truth table
+
+
+![tt3](https://github.com/Saarulakshmi/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/155513241/5b5040f3-a11c-4239-96fc-a6822e946a3b)
+
+
+![exp 3 tt2](https://github.com/Saarulakshmi/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/155513241/8847c538-083c-4689-9125-289f06b32b7c)
+
+##output
+
+![exp 3 wvfrm1](https://github.com/Saarulakshmi/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/155513241/c74e8448-8db9-417e-b5ee-98c225a7761d)
+
+
+![exp 3 wwfrm2](https://github.com/Saarulakshmi/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/155513241/7b949304-ef98-4270-a2b5-0ae4c3cf85b6)
+
+
+
+
+
+
+
+
+
+
+
+
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
+Developed by: saaru laksmi
+RegisterNumber:  23008458
+*
 
-### Output:
-### RTL
-### TIMING DIAGRAM
-
-
-### TRUTH TABLE 
 
 ### Result:
